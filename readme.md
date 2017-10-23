@@ -4,6 +4,10 @@
 -   [Link](#link)
 -   [Image](#image)
 -   [List](#list)
+-   [Block Quotes](#block-quotes)
+-   [Code Blocks](#code-blocks)
+-   [Table](#table)
+-   [Checkbox](#checkbox)
 
 ## Paragraph
 
@@ -37,5 +41,49 @@ Click to fullsize img: [<img style="border-radius: 50%" src="http://unsplash.it/
 -   Second Item
 
 1.  Item 1
-
+    1.  Child item 1
+    2.  Child item 2
+        1.  Child item 3
+        2.  Child item 4
 2.  Item 2
+    -   Child item 1
+    -   Child item 2
+        -   Child item 3
+        -   Child item 4
+
+## Block Quotes
+
+> Hello I'm DHL
+>
+> \-   **DHL**
+
+## Code Blocks
+
+    var x = 100;
+    const dog = 'blue';
+
+```js
+const x = 100;
+const dog = 'blue';
+```
+
+This is inline code block `const x = 100;`
+
+```diff
+var x = 100;
+- vav y = 200;
++ var y = 300;
+```
+
+## Table
+
+| Name   | Age |
+| :----- | :-: |
+| DHL    |  22 |
+| MS NNM |  22 |
+
+## Checkbox
+
+-   [x] Turn on computer
+-   [x] Get some coffe
+-   [ ] Go to sleep
