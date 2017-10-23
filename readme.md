@@ -1,17 +1,11 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# Table of content
 
-- [Paragraph](#paragraph)
-- [Link](#link)
-- [Image](#image)
-- [List](#list)
+-   [Paragraph](#paragraph)
+-   [Link](#link)
+-   [Image](#image)
+-   [List](#list)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-\[[_TOC_]]
-
-# Paragraph
+## Paragraph
 
 _Italic_
 
@@ -19,7 +13,7 @@ _Italic_
 
 ~~Line through~~
 
-# Link
+## Link
 
 <http://google.com>
 
@@ -31,13 +25,13 @@ _Italic_
 
 [sometag]: http://google.com "This is a optional title"
 
-# Image
+## Image
 
 ![alt text](http://unsplash.it/500/500?random "title")
 
 Click to fullsize img: [<img style="border-radius: 50%" src="http://unsplash.it/50/50?random"/>](http://unsplash.it/500/500?random)
 
-# List
+## List
 
 -   First Item
 -   Second Item
