@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Paragraph](#paragraph)
+- [Link](#link)
+- [Image](#image)
+- [List](#list)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 \[[_TOC_]]
 
 # Paragraph
@@ -29,7 +40,8 @@ Click to fullsize img: [<img style="border-radius: 50%" src="http://unsplash.it/
 # List
 
 -   First Item
+-   Second Item
 
-1.  Test
+1.  Item 1
 
-2.  Test 2
+2.  Item 2
